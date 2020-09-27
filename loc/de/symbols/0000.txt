@@ -154,8 +154,8 @@
 0099: <control>
 009A: Single character introducer
 009B: Control sequence introducer
-009C: String terminator
-009D: Operating system command
+009C: String-Terminator
+009D: Betriebssystem-Kommando
 009E: Privacy message
 009F: Application program command
 00A0: Geschütztes Leerzeichen
