@@ -1,110 +1,110 @@
-1D00: Lateinischer Buchstabe Kleinkapital A
-1D01: Lateinischer Buchstabe kleines Kapital Ae
+1D00: Lateinisches Kapitälchen A
+1D01: Lateinisches Kapitälchen Ae
 1D02: Lateinischer Kleinbuchstabe gedrehtes Ae
-1D03: Lateinischer Buchstabe kleines Kapital gesperrt B
-1D04: Lateinischer Buchstabe Kleine Hauptstadt C
-1D05: Lateinischer Buchstabe Kleinkapital D
-1D06: Lateinischer Buchstabe Kleine Hauptstadt Eth
-1D07: Lateinischer Buchstabe Kleine Hauptstadt E
-1D08: Lateinischer Kleinbuchstabe aufgedreht E
+1D03: Lateinisches Kapitälchen durchgestrichenes B
+1D04: Lateinisches Kapitälchen C
+1D05: Lateinisches Kapitälchen D
+1D06: Lateinisches Kapitälchen Eth
+1D07: Lateinisches Kapitälchen E
+1D08: Lateinischer Kleinbuchstabe umgedrehtes offenes E
 1D09: Lateinischer Kleinbuchstabe
-1D0A: Lateinischer Buchstabe Kleine Hauptstadt J
-1D0B: Lateinischer Buchstabe Kleine Hauptstadt K
-1D0C: Lateinischer Buchstabe Kleine Hauptstadt L mit Schlaganfall
-1D0D: Lateinischer Buchstabe Kleine Hauptstadt M
-1D0E: Lateinischer Buchstabe mit kleinem Kapital rückgängig gemacht N
-1D0F: Lateinischer Buchstabe Kleinkapital O
-1D10: Lateinischer Buchstabe Small Capital Open O
-1D11: Lateinischer Kleinbuchstabe seitlich O
-1D12: Lateinischer Kleinbuchstabe seitlich geöffnet O
-1D13: Lateinischer Kleinbuchstabe seitlich O mit Strich
-1D14: Lateinischer Kleinbuchstabe gedreht Oe
-1D15: Lateinischer Buchstabe Kleine Hauptstadt Ou
+1D0A: Lateinisches Kapitälchen J
+1D0B: Lateinisches Kapitälchen K
+1D0C: Lateinisches Kapitälchen L mit Strich
+1D0D: Lateinisches Kapitälchen M
+1D0E: Lateinisches Kapitälchen umgedrehtes N
+1D0F: Lateinisches Kapitälchen O
+1D10: Lateinisches Kapitälchen offenes O
+1D11: Lateinischer Kleinbuchstabe seitliches O
+1D12: Lateinischer Kleinbuchstabe seitlich geöffnetes O
+1D13: Lateinischer Kleinbuchstabe seitliches O mit Strich
+1D14: Lateinischer Kleinbuchstabe gedrehtes Oe
+1D15: Lateinisches Kapitälchen Ou
 1D16: Lateinische Kleinbuchstabe Oben
 1D17: Lateinische Kleinbuchstabe Untere Hälfte O
-1D18: Lateinischer Buchstabe Kleine Hauptstadt P
-1D19: Lateinischer Buchstabe mit kleinem Kapital rückgängig gemacht R
+1D18: Lateinisches Kapitälchen P
+1D19: Lateinisches Kapitälchen umgedrehtes R
 1D1A: Lateinischer Buchstabe Kleines Kapital gedrehtes R
-1D1B: Lateinischer Buchstabe Kleine Hauptstadt T
-1D1C: Lateinischer Buchstabe Kleine Hauptstadt U
-1D1D: Lateinischer Kleinbuchstabe seitlich U
-1D1E: Lateinischer Kleinbuchstabe seitlich Diaeresized U
-1D1F: Lateinischer Kleinbuchstabe seitlich gedreht M
-1D20: Lateinischer Buchstabe Kleine Hauptstadt V
-1D21: Lateinischer Buchstabe Kleine Hauptstadt W
-1D22: Lateinischer Buchstabe Kleine Hauptstadt Z
-1D23: Lateinischer Buchstabe Kleine Hauptstadt Ezh
+1D1B: Lateinisches Kapitälchen T
+1D1C: Lateinisches Kapitälchen U
+1D1D: Lateinischer Kleinbuchstabe seitliches U
+1D1E: Lateinischer Kleinbuchstabe seitliches Ue
+1D1F: Lateinischer Kleinbuchstabe seitlich gedrehtes M
+1D20: Lateinisches Kapitälchen V
+1D21: Lateinisches Kapitälchen W
+1D22: Lateinisches Kapitälchen Z
+1D23: Lateinisches Kapitälchen Ezh
 1D24: Lateinischer Buchstabe Stimmiger Kehlkopfspirant
 1D25: Lateinischer Buchstabe Ain
-1D26: Griechischer Buchstabe Kleine Hauptstadt Gamma
-1D27: Griechischer Brief Kleine Hauptstadt Lamda
-1D28: Griechischer Buchstabe Small Capital Pi
-1D29: Griechischer Buchstabe Kleine Hauptstadt Rho
-1D2A: Griechischer Buchstabe Kleine Hauptstadt Psi
-1D2B: Kyrillischer Brief Kleine Hauptstadt El
-1D2C: Zusatzbuchstabe Großbuchstabe A
-1D2D: Zusatzbuchstabe Großbuchstabe Ae
-1D2E: Zusatzbuchstabe Großbuchstabe B
-1D2F: Modifikationsbuchstabe Großteil Barred B
-1D30: Zusatzbuchstabe Großbuchstabe D
-1D31: Zusatzbuchstabe Großbuchstabe E
-1D32: Zusatzbuchstabe Großbuchstabe E
-1D33: Zusatzbuchstabe Großbuchstabe G
-1D34: Zusatzbuchstabe Großbuchstabe H
-1D35: Zusatzbuchstabe Großbuchstabe I
-1D36: Zusatzbuchstabe Großbuchstabe J
-1D37: Zusatzbuchstabe Großbuchstabe K
-1D38: Zusatzbuchstabe Großbuchstabe L
-1D39: Zusatzbuchstabe Großbuchstabe M
-1D3A: Zusatzbuchstabe Großbuchstabe N
-1D3B: Zusatzbuchstabe Großbuchstabe N
-1D3C: Zusatzbuchstabe Großbuchstabe O
-1D3D: Zusatzbuchstabe Capital Ou
-1D3E: Zusatzbuchstabe Großbuchstabe P
-1D3F: Zusatzbuchstabe Großbuchstabe R
-1D40: Zusatzbuchstabe Großbuchstabe T
-1D41: Zusatzbuchstabe Großbuchstabe U
-1D42: Zusatzbuchstabe Großbuchstabe W
-1D43: Zusatzbuchstabe Klein A
-1D44: Zusatzbrief Klein gedreht A
-1D45: Zusatzbuchstabe Small Alpha
-1D46: Zusatzbrief Klein gedrehtes Ae
-1D47: Zusatzbuchstabe Klein B
-1D48: Zusatzbuchstabe Klein D
-1D49: Zusatzbuchstabe Klein E
-1D4A: Zusatzbrief Klein Schwa
-1D4B: Zusatzbuchstabe Small Open E
-1D4C: Zusatzbuchstabe Klein gedreht offen E
-1D4D: Zusatzbuchstabe klein G
-1D4E: Zusatzbrief Klein gedreht I
-1D4F: Zusatzbuchstabe Klein K
-1D50: Zusatzbuchstabe Klein M
-1D51: Zusatzbrief Klein Eng
-1D52: Zusatzbuchstabe Klein O
-1D53: Zusatzbuchstabe klein offen O
-1D54: Zusatzbuchstabe Kleine obere Hälfte O
-1D55: Zusatzbuchstabe Kleine untere Hälfte O
-1D56: Zusatzbuchstabe klein p
-1D57: Zusatzbuchstabe klein t
-1D58: Zusatzbuchstabe Klein U
-1D59: Zusatzbuchstabe klein seitlich U
-1D5A: Zusatzbrief Klein gedreht M
-1D5B: Zusatzbuchstabe Klein V
-1D5C: Zusatzbuchstabe Klein Ain
-1D5D: Zusatzbuchstabe Small Beta
-1D5E: Änderungsschreiben Small Greek Gamma
-1D5F: Zusatzbuchstabe Kleines Delta
-1D60: Modifier Letter Kleiner griechischer Phi
-1D61: Modifier-Buchstabe Kleines Chi
+1D26: Griechisches Kapitälchen Gamma
+1D27: Griechisches Kapitälchen Lamda
+1D28: Griechisches Kapitälchen Pi
+1D29: Griechisches Kapitälchen Rho
+1D2A: Griechisches Kapitälchen Psi
+1D2B: Kyrillisches Kapitälchen El
+1D2C: Modifikator-Buchstabe Großbuchstabe A
+1D2D: Modifikator-Buchstabe Großbuchstabe Ae
+1D2E: Modifikator-Buchstabe Großbuchstabe B
+1D2F: Modifikator-Buchstabe Großbuchstabe durchgestrichenes B
+1D30: Modifikator-Buchstabe Großbuchstabe D
+1D31: Modifikator-Buchstabe Großbuchstabe E
+1D32: Modifikator-Buchstabe Großbuchstabe E
+1D33: Modifikator-Buchstabe Großbuchstabe G
+1D34: Modifikator-Buchstabe Großbuchstabe H
+1D35: Modifikator-Buchstabe Großbuchstabe I
+1D36: Modifikator-Buchstabe Großbuchstabe J
+1D37: Modifikator-Buchstabe Großbuchstabe K
+1D38: Modifikator-Buchstabe Großbuchstabe L
+1D39: Modifikator-Buchstabe Großbuchstabe M
+1D3A: Modifikator-Buchstabe Großbuchstabe N
+1D3B: Modifikator-Buchstabe Großbuchstabe N
+1D3C: Modifikator-Buchstabe Großbuchstabe O
+1D3D: Modifikator-Buchstabe Capital Ou
+1D3E: Modifikator-Buchstabe Großbuchstabe P
+1D3F: Modifikator-Buchstabe Großbuchstabe R
+1D40: Modifikator-Buchstabe Großbuchstabe T
+1D41: Modifikator-Buchstabe Großbuchstabe U
+1D42: Modifikator-Buchstabe Großbuchstabe W
+1D43: Modifikator-Buchstabe Klein A
+1D44: Modifikator-Buchstabe Klein gedrehtes A
+1D45: Modifikator-Buchstabe Small Alpha
+1D46: Modifikator-Buchstabe Klein gedrehtes Ae
+1D47: Modifikator-Buchstabe Klein B
+1D48: Modifikator-Buchstabe Klein D
+1D49: Modifikator-Buchstabe Klein E
+1D4A: Modifikator-Buchstabe Klein Schwa
+1D4B: Modifikator-Buchstabe Klein offenes E
+1D4C: Modifikator-Buchstabe Klein gedreht offenes E
+1D4D: Modifikator-Buchstabe klein G
+1D4E: Modifikator-Buchstabe Klein gedrehtes I
+1D4F: Modifikator-Buchstabe Klein K
+1D50: Modifikator-Buchstabe Klein M
+1D51: Modifikator-Buchstabe Klein Eng
+1D52: Modifikator-Buchstabe Klein O
+1D53: Modifikator-Buchstabe klein offenes O
+1D54: Modifikator-Buchstabe Kleine obere Hälfte O
+1D55: Modifikator-Buchstabe Kleine untere Hälfte O
+1D56: Modifikator-Buchstabe klein p
+1D57: Modifikator-Buchstabe klein t
+1D58: Modifikator-Buchstabe Klein U
+1D59: Modifikator-Buchstabe klein seitliches U
+1D5A: Modifikator-Buchstabe Klein gedrehtes M
+1D5B: Modifikator-Buchstabe Klein V
+1D5C: Modifikator-Buchstabe Klein Ain
+1D5D: Modifikator-Buchstabe Kleines Beta
+1D5E: Modifikator-Buchstabe Kleines Griechisches Gamma
+1D5F: Modifikator-Buchstabe Kleines Delta
+1D60: Modifikator-Buchstabe Kleines griechisches Phi
+1D61: Modifikator-Buchstabe Kleines Chi
 1D62: Lateinischer tiefgestellter Kleinbuchstabe I
 1D63: Lateinischer tiefgestellter Kleinbuchstabe R
 1D64: Lateinischer tiefgestellter Kleinbuchstabe U
 1D65: Lateinischer tiefgestellter Kleinbuchstabe V
-1D66: Griechisches tiefgestelltes Kleinbuchstabe Beta
-1D67: Griechischer Index Kleinbuchstabe Gamma
-1D68: Griechischer Index Kleinbuchstabe Rho
+1D66: Griechischer tiefgestellter Kleinbuchstabe Beta
+1D67: Griechischer tiefgestellter Kleinbuchstabe Gamma
+1D68: Griechischer tiefgestellter Kleinbuchstabe Rho
 1D69: Griechischer tiefgestellter Kleinbuchstabe Phi
-1D6A: Griechischer Index Kleinbuchstabe Chi
+1D6A: Griechischer tiefgestellter Kleinbuchstabe Chi
 1D6B: Lateinischer Kleinbuchstabe Ue
 1D6C: Lateinischer Kleinbuchstabe B mit mittlerer Tilde
 1D6D: Lateinischer Kleinbuchstabe D mit mittlerer Tilde
@@ -117,29 +117,29 @@
 1D74: Lateinischer Kleinbuchstabe S mit mittlerer Tilde
 1D75: Lateinischer Kleinbuchstabe T mit mittlerer Tilde
 1D76: Lateinischer Kleinbuchstabe Z mit mittlerer Tilde
-1D77: Lateinischer Kleinbuchstabe gedreht G
-1D78: Änderungsschreiben Kyrillisch En
+1D77: Lateinischer Kleinbuchstabe gedrehtes G
+1D78: Modifikator-Buchstabe Kyrillisch En
 1D79: Lateinischer Kleinbuchstabe Insular G
-1D7A: Lateinischer Kleinbuchstabe Th mit Durchgestrichen
-1D7B: Lateinischer Großbuchstabe I mit Schlaganfall
-1D7C: Lateinischer Kleinbuchstabe Iota mit Schlaganfall
+1D7A: Lateinischer Kleinbuchstabe Th durchgestrichen
+1D7B: Lateinischer Großbuchstabe I mit Strich
+1D7C: Lateinischer Kleinbuchstabe Iota mit Strich
 1D7D: Lateinischer Kleinbuchstabe P mit Strich
 1D7E: Lateinischer Kleinbuchstabe U mit Strich
-1D7F: Lateinischer Kleinbuchstabe Upsilon mit Schlaganfall
-1D80: Lateinischer Kleinbuchstabe B mit Palatal Hook
-1D81: Lateinischer Kleinbuchstabe D mit Palatal Hook
-1D82: Lateinischer Kleinbuchstabe F mit Palatal Hook
-1D83: Lateinischer Kleinbuchstabe G mit Palatal Hook
+1D7F: Lateinischer Kleinbuchstabe Upsilon mit Strich
+1D80: Lateinischer Kleinbuchstabe B mit Palatalhaken
+1D81: Lateinischer Kleinbuchstabe D mit Palatalhaken
+1D82: Lateinischer Kleinbuchstabe F mit Palatalhaken
+1D83: Lateinischer Kleinbuchstabe G mit Palatalhaken
 1D84: Lateinischer Kleinbuchstabe K mit Palatalhaken
-1D85: Lateinischer Kleinbuchstabe L mit Palatal Hook
-1D86: Lateinischer Kleinbuchstabe M mit Palatal Hook
-1D87: Lateinischer Kleinbuchstabe N mit Palatal Hook
-1D88: Lateinischer Kleinbuchstabe P mit Palatal Hook
-1D89: Lateinischer Kleinbuchstabe R mit Palatal Hook
-1D8A: Lateinischer Kleinbuchstabe S mit Palatal Hook
-1D8B: Lateinischer Kleinbuchstabe Esh mit Palatal Hook
-1D8C: Lateinischer Kleinbuchstabe V mit Palatal Hook
-1D8D: Lateinischer Kleinbuchstabe X mit Palatal Hook
+1D85: Lateinischer Kleinbuchstabe L mit Palatalhaken
+1D86: Lateinischer Kleinbuchstabe M mit Palatalhaken
+1D87: Lateinischer Kleinbuchstabe N mit Palatalhaken
+1D88: Lateinischer Kleinbuchstabe P mit Palatalhaken
+1D89: Lateinischer Kleinbuchstabe R mit Palatalhaken
+1D8A: Lateinischer Kleinbuchstabe S mit Palatalhaken
+1D8B: Lateinischer Kleinbuchstabe Esh mit Palatalhaken
+1D8C: Lateinischer Kleinbuchstabe V mit Palatalhaken
+1D8D: Lateinischer Kleinbuchstabe X mit Palatalhaken
 1D8E: Lateinischer Kleinbuchstabe Z mit Palatalhaken
 1D8F: Lateinischer Kleinbuchstabe a mit Retroflex-Haken
 1D90: Lateinischer Kleinbuchstabe Alpha mit Retroflex-Haken
@@ -153,43 +153,43 @@
 1D98: Lateinischer Kleinbuchstabe Esh mit Retroflex-Haken
 1D99: Lateinischer Kleinbuchstabe U mit Retroflex-Haken
 1D9A: Lateinischer Kleinbuchstabe Ezh mit Retroflex-Haken
-1D9B: Zusatzbuchstabe Small Turned Alpha
-1D9C: Zusatzbuchstabe Klein C
-1D9D: Zusatzbuchstabe Small C mit Curl
-1D9E: Zusatzbrief Klein Eth
-1D9F: Modifizierbuchstabe klein aufgehoben offen E
-1DA0: Zusatzbuchstabe Klein F
-1DA1: Zusatzbrief Klein Dotless J mit Strich
-1DA2: Zusatzbuchstabe Kleine Schrift G
-1DA3: Zusatzbuchstabe Klein gedreht H
-1DA4: Zusatzbuchstabe Klein I mit Strich
-1DA5: Modifikationsbuchstabe Small Iota
-1DA6: Zusatzbrief Kleinkapital I
-1DA7: Zusatzbrief Kleinkapital I mit Strich
-1DA8: Zusatzbuchstabe Small J mit gekreuztem Schwanz
-1DA9: Zusatzbuchstabe Klein L mit Retroflex-Haken
-1DAA: Zusatzbuchstabe Small L mit Palatal Hook
-1DAB: Zusatzbuchstabe Kleinkapital L
-1DAC: Zusatzbuchstabe Klein M mit Haken
-1DAD: Zusatzbrief Klein gedrehtes M mit langem Bein
-1DAE: Zusatzbuchstabe Small N mit linkem Haken
-1DAF: Zusatzbuchstabe Small N mit Retroflex-Haken
-1DB0: Zusatzbrief Kleinkapital N
-1DB1: Zusatzbrief Klein gesperrt O
-1DB2: Zusatzbrief Klein Phi
-1DB3: Zusatzbuchstabe Small S mit Haken
-1DB4: Zusatzbuchstabe Small Esh
-1DB5: Zusatzbuchstabe Small T mit Palatal Hook
-1DB6: Zusatzbuchstabe Kleine U-Leiste
-1DB7: Modifikationsbuchstabe Small Upsilon
-1DB8: Zusatzbrief Kleinkapital U
-1DB9: Zusatzbrief Klein V mit Haken
-1DBA: Zusatzbrief Klein gedreht V
-1DBB: Zusatzbuchstabe Klein Z
-1DBC: Zusatzbuchstabe Small Z mit Retroflex-Haken
-1DBD: Zusatzbuchstabe Small Z mit Curl
-1DBE: Zusatzbrief Klein Ezh
-1DBF: Modifikationsbuchstabe Kleines Theta
+1D9B: Modifikator-Buchstabe Small Turned Alpha
+1D9C: Modifikator-Buchstabe Klein C
+1D9D: Modifikator-Buchstabe Small C mit Curl
+1D9E: Modifikator-Buchstabe Klein Eth
+1D9F: Modifikator-Buchstabe klein aufgehoben offen E
+1DA0: Modifikator-Buchstabe Klein F
+1DA1: Modifikator-Buchstabe Klein Dotless J mit Strich
+1DA2: Modifikator-Buchstabe Kleine Schrift G
+1DA3: Modifikator-Buchstabe Klein gedreht H
+1DA4: Modifikator-Buchstabe Klein I mit Strich
+1DA5: Modifikator-Buchstabe Small Iota
+1DA6: Modifikator-Buchstabe Kleinkapital I
+1DA7: Modifikator-Buchstabe Kleinkapital I mit Strich
+1DA8: Modifikator-Buchstabe Small J mit gekreuztem Schwanz
+1DA9: Modifikator-Buchstabe Klein L mit Retroflex-Haken
+1DAA: Modifikator-Buchstabe Small L mit Palatalhaken
+1DAB: Modifikator-Buchstabe Kleinkapital L
+1DAC: Modifikator-Buchstabe Klein M mit Haken
+1DAD: Modifikator-Buchstabe Klein gedrehtes M mit langem Bein
+1DAE: Modifikator-Buchstabe Small N mit linkem Haken
+1DAF: Modifikator-Buchstabe Small N mit Retroflex-Haken
+1DB0: Modifikator-Buchstabe Kleinkapital N
+1DB1: Modifikator-Buchstabe Klein gesperrt O
+1DB2: Modifikator-Buchstabe Klein Phi
+1DB3: Modifikator-Buchstabe Small S mit Haken
+1DB4: Modifikator-Buchstabe Small Esh
+1DB5: Modifikator-Buchstabe Small T mit Palatalhaken
+1DB6: Modifikator-Buchstabe Kleine U-Leiste
+1DB7: Modifikator-Buchstabe Small Upsilon
+1DB8: Modifikator-Buchstabe Kleinkapital U
+1DB9: Modifikator-Buchstabe Klein V mit Haken
+1DBA: Modifikator-Buchstabe Klein gedreht V
+1DBB: Modifikator-Buchstabe Klein Z
+1DBC: Modifikator-Buchstabe Small Z mit Retroflex-Haken
+1DBD: Modifikator-Buchstabe Small Z mit Curl
+1DBE: Modifikator-Buchstabe Klein Ezh
+1DBF: Modifikator-Buchstabe Kleines Theta
 1DC0: Gepunkteten Grab Akzent kombinieren
 1DC1: Punktierter Akutakzent kombinieren
 1DC2: Kombinierte Schlange unten
@@ -217,14 +217,14 @@
 1DD8: Lateinischer Kleinbuchstabe Insular D
 1DD9: Lateinischer Kleinbuchstabe Eth
 1DDA: Lateinischer Kleinbuchstabe G
-1DDB: Lateinischer Buchstabe mit kleinem Kapital kombinieren G
+1DDB: Lateinisches Kapitälchen kombinieren G
 1DDC: Lateinischer Kleinbuchstabe K
 1DDD: Lateinischer Kleinbuchstabe L kombinieren
 1DDE: Kombination lateinischer Buchstaben mit kleinem Kapital L
-1DDF: Lateinischer Buchstabe mit kleinem Kapital kombinieren M
+1DDF: Lateinisches Kapitälchen kombinieren M
 1DE0: Lateinischer Kleinbuchstabe N kombinieren
-1DE1: Lateinischer Buchstabe mit kleinem Kapital N
-1DE2: Lateinischer Buchstabe mit kleinem Kapital R
+1DE1: Lateinisches Kapitälchen N
+1DE2: Lateinisches Kapitälchen R
 1DE3: Lateinische Kleinbuchstabe R Rotunde kombinieren
 1DE4: Lateinischer Kleinbuchstabe S
 1DE5: Lateinischer Kleinbuchstabe Lang S

@@ -174,83 +174,83 @@
 02AD: Lateinischer Buchstabe Bidental Percussive
 02AE: Lateinischer Kleinbuchstabe gedreht H mit Angelhaken
 02AF: Lateinischer Kleinbuchstabe gedreht H mit Angelhaken und Schwanz
-02B0: Buchstaben-Modifikator kleines H
-02B1: Buchstaben-Modifikator kleines H mit Haken
-02B2: Buchstaben-Modifikator kleines J
-02B3: Buchstaben-Modifikator kleines R
-02B4: Buchstaben-Modifikator kleines gedreht R
-02B5: Buchstaben-Modifikator kleines gedrehtes R mit Haken
-02B6: Buchstaben-Modifikator kleines invertiertes R
-02B7: Buchstaben-Modifikator kleines W
-02B8: Buchstaben-Modifikator kleines Y
-02B9: Buchstaben-Modifikator Prime
-02BA: Buchstaben-Modifikator doppelte Prime
-02BB: Buchstaben-Modifikator Komma
-02BC: Buchstaben-Modifikator Apostroph : Apostroph
-02BD: Buchstaben-Modifikator umgedrehtes Komma
-02BE: Buchstaben-Modifikator rechter halber Ring
-02BF: Buchstaben-Modifikator Linker halber Ring
-02C0: Buchstaben-Modifikator Glottal Stop
-02C1: Buchstaben-Modifikator umgedrehter Glottaler Stopp
-02C2: Buchstaben-Modifikator Linke Pfeilspitze
-02C3: Buchstaben-Modifikator Rechte Pfeilspitze
-02C4: Buchstaben-Modifikator Pfeilspitze nach oben
-02C5: Buchstaben-Modifikator Pfeilspitze nach unten
-02C6: Buchstaben-Modifikator Zirkumflex-Akzent
+02B0: Modifikator-Buchstabe kleines H
+02B1: Modifikator-Buchstabe kleines H mit Haken
+02B2: Modifikator-Buchstabe kleines J
+02B3: Modifikator-Buchstabe kleines R
+02B4: Modifikator-Buchstabe kleines gedreht R
+02B5: Modifikator-Buchstabe kleines gedrehtes R mit Haken
+02B6: Modifikator-Buchstabe kleines invertiertes R
+02B7: Modifikator-Buchstabe kleines W
+02B8: Modifikator-Buchstabe kleines Y
+02B9: Modifikator-Buchstabe Prime
+02BA: Modifikator-Buchstabe doppelte Prime
+02BB: Modifikator-Buchstabe Komma
+02BC: Modifikator-Buchstabe Apostroph : Apostroph
+02BD: Modifikator-Buchstabe umgedrehtes Komma
+02BE: Modifikator-Buchstabe rechter halber Ring
+02BF: Modifikator-Buchstabe Linker halber Ring
+02C0: Modifikator-Buchstabe Glottal Stop
+02C1: Modifikator-Buchstabe umgedrehter Glottaler Stopp
+02C2: Modifikator-Buchstabe Linke Pfeilspitze
+02C3: Modifikator-Buchstabe Rechte Pfeilspitze
+02C4: Modifikator-Buchstabe Pfeilspitze nach oben
+02C5: Modifikator-Buchstabe Pfeilspitze nach unten
+02C6: Modifikator-Buchstabe Zirkumflex-Akzent
 02C7: Caron : Hatschek
-02C8: Buchstaben-Modifikator vertikale Linie
-02C9: Buchstaben-Modifikator Macron
-02CA: Buchstaben-Modifikator Akuter Akzent
-02CB: Buchstaben-Modifikator Gravierender Akzent
-02CC: Buchstaben-Modifikator Niedrige vertikale Linie
-02CD: Buchstaben-Modifikator Low Macron
-02CE: Buchstaben-Modifikator Niedriger Grab-Akzent
-02CF: Buchstaben-Modifikator Akuter Akzent niedrig
-02D0: Buchstaben-Modifikator Dreieckiger Doppelpunkt
-02D1: Buchstaben-Modifikator Dreieckiger Doppelpunkt
-02D2: Buchstaben-Modifikator zentrierte rechte Ringhälfte
-02D3: Buchstaben-Modifikator zentrierter linker halber Ring
-02D4: Buchstaben-Modifikator Up Tack
-02D5: Buchstaben-Modifikator Down Tack
-02D6: Buchstaben-Modifikator Pluszeichen
-02D7: Buchstaben-Modifikator Minuszeichen
+02C8: Modifikator-Buchstabe vertikale Linie
+02C9: Modifikator-Buchstabe Macron
+02CA: Modifikator-Buchstabe Akuter Akzent
+02CB: Modifikator-Buchstabe Gravierender Akzent
+02CC: Modifikator-Buchstabe Niedrige vertikale Linie
+02CD: Modifikator-Buchstabe Low Macron
+02CE: Modifikator-Buchstabe Niedriger Grab-Akzent
+02CF: Modifikator-Buchstabe Akuter Akzent niedrig
+02D0: Modifikator-Buchstabe Dreieckiger Doppelpunkt
+02D1: Modifikator-Buchstabe Dreieckiger Doppelpunkt
+02D2: Modifikator-Buchstabe zentrierte rechte Ringhälfte
+02D3: Modifikator-Buchstabe zentrierter linker halber Ring
+02D4: Modifikator-Buchstabe Up Tack
+02D5: Modifikator-Buchstabe Down Tack
+02D6: Modifikator-Buchstabe Pluszeichen
+02D7: Modifikator-Buchstabe Minuszeichen
 02D8: Breve
 02D9: Punkt oben
 02DA: Ring oben
 02DB: Ogonek
 02DC: Kleine Tilde
 02DD: Doppelter Akutakzent
-02DE: Buchstaben-Modifikator Rhotic Hook
-02DF: Buchstaben-Modifikator Kreuz Akzent
-02E0: Buchstaben-Modifikator Kleines Gamma
-02E1: Buchstaben-Modifikator Klein L
-02E2: Buchstaben-Modifikator Klein S
-02E3: Buchstaben-Modifikator Klein X
-02E4: Buchstaben-Modifikator kleiner umgekehrter Glottalanschlag
-02E5: Buchstaben-Modifikator mit extra hohem Tonwert
-02E6: Buchstaben-Modifikator für hohe Klangfarben
-02E7: Buchstaben-Modifikator Mittelton-Leiste
-02E8: Buchstaben-Modifikator Niedriger Tonwert
-02E9: Buchstaben-Modifikator Sehr niedriger Tonwert
-02EA: Buchstaben-Modifikator Yin-Abflugtonmarke
-02EB: Buchstaben-Modifikator Yang, der Tonzeichen abweicht
-02EC: Buchstaben-Modifikator Voicing
-02ED: Buchstaben-Modifikator unbeantwortet
-02EE: Buchstaben-Modifikator Doppelapostel
-02EF: Buchstaben-Modifikator Niedrig Abwärtspfeil
-02F0: Buchstaben-Modifikator Niedrige Pfeilspitze
-02F1: Buchstaben-Modifikator Niedrige linke Pfeilspitze
-02F2: Buchstaben-Modifikator Niedrige rechte Pfeilspitze
-02F3: Buchstaben-Modifikator Unterer Ring
-02F4: Buchstaben-Modifikator Mittlerer Gravis
-02F5: Buchstaben-Modifikator Mittlerer doppelter Gravis
-02F6: Buchstaben-Modifikator mittlerer doppelter Akut
-02F7: Buchstaben-Modifikator Niedrige Tilde
-02F8: Buchstaben-Modifikator angehobener Doppelpunkt
-02F9: Buchstaben-Modifikator Beginnt den hohen Ton
-02FA: Buchstaben-Modifikator Ende hoher Ton
-02FB: Buchstaben-Modifikator Beginnt den niedrigen Ton
-02FC: Buchstaben-Modifikator End Niedriger Ton
-02FD: Buchstaben-Modifikator Brief Regal
-02FE: Buchstaben-Modifikator Open Shelf
-02FF: Buchstaben-Modifikator Niedriger linker Pfeil
+02DE: Modifikator-Buchstabe Rhotic Hook
+02DF: Modifikator-Buchstabe Kreuz Akzent
+02E0: Modifikator-Buchstabe Kleines Gamma
+02E1: Modifikator-Buchstabe Klein L
+02E2: Modifikator-Buchstabe Klein S
+02E3: Modifikator-Buchstabe Klein X
+02E4: Modifikator-Buchstabe kleiner umgekehrter Glottalanschlag
+02E5: Modifikator-Buchstabe mit extra hohem Tonwert
+02E6: Modifikator-Buchstabe für hohe Klangfarben
+02E7: Modifikator-Buchstabe Mittelton-Leiste
+02E8: Modifikator-Buchstabe Niedriger Tonwert
+02E9: Modifikator-Buchstabe Sehr niedriger Tonwert
+02EA: Modifikator-Buchstabe Yin-Abflugtonmarke
+02EB: Modifikator-Buchstabe Yang, der Tonzeichen abweicht
+02EC: Modifikator-Buchstabe Voicing
+02ED: Modifikator-Buchstabe unbeantwortet
+02EE: Modifikator-Buchstabe Doppelapostel
+02EF: Modifikator-Buchstabe Niedrig Abwärtspfeil
+02F0: Modifikator-Buchstabe Niedrige Pfeilspitze
+02F1: Modifikator-Buchstabe Niedrige linke Pfeilspitze
+02F2: Modifikator-Buchstabe Niedrige rechte Pfeilspitze
+02F3: Modifikator-Buchstabe Unterer Ring
+02F4: Modifikator-Buchstabe Mittlerer Gravis
+02F5: Modifikator-Buchstabe Mittlerer doppelter Gravis
+02F6: Modifikator-Buchstabe mittlerer doppelter Akut
+02F7: Modifikator-Buchstabe Niedrige Tilde
+02F8: Modifikator-Buchstabe angehobener Doppelpunkt
+02F9: Modifikator-Buchstabe Beginnt den hohen Ton
+02FA: Modifikator-Buchstabe Ende hoher Ton
+02FB: Modifikator-Buchstabe Beginnt den niedrigen Ton
+02FC: Modifikator-Buchstabe End Niedriger Ton
+02FD: Modifikator-Buchstabe Brief Regal
+02FE: Modifikator-Buchstabe Open Shelf
+02FF: Modifikator-Buchstabe Niedriger linker Pfeil
